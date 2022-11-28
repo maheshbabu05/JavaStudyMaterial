@@ -18,7 +18,7 @@ public abstract class  AbstaractSS {
 		
 		//AbstaractSS Obj = new AbstaractSS();
 //Obj.method1();
-//Obj.method2();
+//Obj.method2(); test cmmmmm
 
 		
 		
